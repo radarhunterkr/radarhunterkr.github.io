@@ -2,261 +2,608 @@
   {
     "name": "초록매실 스파클링 제로, 350ml, 20개 (47% 할인 · 10,400원)",
     "url": "https://toss.im/_m/T39jBXGo",
-    "img": "img/초록매실스파클링제로350ml20개47할인10.png"
+    "img": "img/초록매실스파클링제로350ml20개47할인10.png",
+    "title": "초록매실 스파클링 제로, 350ml, 20개",
+    "pid": 36410559,
+    "discount": 47,
+    "price": 10400,
+    "now": 15900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "대상 루테인 플러스, 30캡슐, 6박스 (86% 할인 · 16,500원)",
     "url": "https://toss.im/_m/vbV5iXRb",
-    "img": "img/대상루테인플러스30캡슐6박스86할인16500.png"
+    "img": "img/대상루테인플러스30캡슐6박스86할인16500.png",
+    "title": "대상 루테인 플러스, 30캡슐, 6박스",
+    "pid": 133534567,
+    "discount": 86,
+    "price": 16500,
+    "now": 16500,
+    "checked": "2026-09-07"
   },
   {
     "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩 (41% 할인 · 12,990원)",
     "url": "https://toss.im/_m/nsg5wxHj",
-    "img": "img/베베앙시그니처물티슈캡형100매10팩41할인1.png"
+    "img": "img/베베앙시그니처물티슈캡형100매10팩41할인1.png",
+    "title": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+    "pid": 13017669,
+    "discount": 41,
+    "price": 12990,
+    "now": 12990,
+    "checked": "2026-09-07"
   },
   {
     "name": "한입 삼겹살, 500g, 3개 (66% 할인 · 9,990원)",
     "url": "https://toss.im/_m/D30l6ukn",
-    "img": "img/한입삼겹살500g3개66할인9990원.png"
+    "img": "img/한입삼겹살500g3개66할인9990원.png",
+    "title": "한입 삼겹살, 500g, 3개",
+    "pid": 2620612131,
+    "discount": 66,
+    "price": 9990,
+    "now": 9990,
+    "checked": "2026-09-07"
   },
   {
     "name": "클리어 미용티슈, 2겹, 300매, 6개 (64% 할인 · 5,290원)",
     "url": "https://toss.im/_m/nE89THdm",
-    "img": "img/클리어미용티슈2겹300매6개64할인5290원.png"
+    "img": "img/클리어미용티슈2겹300매6개64할인5290원.png",
+    "title": "클리어 미용티슈, 2겹, 300매, 6개",
+    "pid": 1776020737,
+    "discount": 64,
+    "price": 5290,
+    "now": 5290,
+    "checked": "2026-09-07"
   },
   {
     "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개 (64% 할인 · 4,990원)",
     "url": "https://toss.im/_m/vBF2FB82",
-    "img": "img/꿀이구마호박찹쌀약과30g30개64할인4990.png"
+    "img": "img/꿀이구마호박찹쌀약과30g30개64할인4990.png",
+    "title": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
+    "pid": 423535267,
+    "discount": 64,
+    "price": 4990,
+    "now": 4990,
+    "checked": "2026-09-07"
   },
   {
     "name": "구워먹는 할루미치즈, 200g, 3개 (65% 할인 · 7,600원)",
     "url": "https://toss.im/_m/Pm4gPP2b",
-    "img": "img/구워먹는할루미치즈200g3개65할인7600원.png"
+    "img": "img/구워먹는할루미치즈200g3개65할인7600원.png",
+    "title": "구워먹는 할루미치즈, 200g, 3개",
+    "pid": 2375083883,
+    "discount": 65,
+    "price": 7600,
+    "now": 7600,
+    "checked": "2026-09-07"
   },
   {
     "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩 (77% 할인 · 5,460원)",
     "url": "https://toss.im/_m/xW1LyrV4",
-    "img": "img/베베앙시그니처물티슈캡형100매10팩77할인5.png"
+    "img": "img/베베앙시그니처물티슈캡형100매10팩77할인5.png",
+    "title": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+    "pid": 13017669,
+    "discount": 77,
+    "price": 5460,
+    "now": 12990,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "프로프룻 샤인머스켓, 특품, 2kg, 1박스 (82% 할인 · 11,900원)",
     "url": "https://toss.im/_m/1Pa9Bm6C",
-    "img": "img/프로프룻샤인머스켓특품2kg1박스82할인119.png"
+    "img": "img/프로프룻샤인머스켓특품2kg1박스82할인119.png",
+    "title": "프로프룻 샤인머스켓, 특품, 2kg, 1박스",
+    "pid": 2578376693,
+    "discount": 82,
+    "price": 11900,
+    "now": 11500,
+    "checked": "2026-09-07",
+    "status": "cheaper"
   },
   {
     "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트 (50% 할인 · 14,890원)",
     "url": "https://toss.im/_m/5mgIGy9m",
-    "img": "img/애슐리크리스피핫도그4종80g8개입2세트50할.png"
+    "img": "img/애슐리크리스피핫도그4종80g8개입2세트50할.png",
+    "title": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+    "pid": 133432803,
+    "discount": 50,
+    "price": 14890,
+    "now": 14890,
+    "checked": "2026-09-07"
   },
   {
     "name": "해담옥 양념소불고기, 400g, 2팩 (75% 할인 · 8,330원)",
     "url": "https://toss.im/_m/bdWsmqLt",
-    "img": "img/해담옥양념소불고기400g2팩75할인8330원.png"
+    "img": "img/해담옥양념소불고기400g2팩75할인8330원.png",
+    "title": "해담옥 양념소불고기, 400g, 2팩",
+    "pid": 2635743877,
+    "discount": 75,
+    "price": 8330,
+    "now": 8330,
+    "checked": "2026-09-07",
+    "status": "soldout"
   },
   {
     "name": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개 (96% 할인 · 4,900원)",
     "url": "https://toss.im/_m/3aPyQk8v",
-    "img": "img/데이즈온데메테르그레인루피니빈300g5개96할.png"
+    "img": "img/데이즈온데메테르그레인루피니빈300g5개96할.png",
+    "title": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
+    "pid": 1443644129,
+    "discount": 96,
+    "price": 4900,
+    "now": 19900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "SOOM 키친타올, 3겹, 100매, 12팩 (61% 할인 · 5,800원)",
     "url": "https://toss.im/_m/fZ1JRHGx",
-    "img": "img/SOOM키친타올3겹100매12팩61할인580.png"
+    "img": "img/SOOM키친타올3겹100매12팩61할인580.png",
+    "title": "SOOM 키친타올, 3겹, 100매, 12팩",
+    "pid": 2598892675,
+    "discount": 61,
+    "price": 5800,
+    "now": 9900,
+    "checked": "2026-09-07",
+    "status": "soldout"
   },
   {
     "name": "Bhc 뿌링팝콘, 60g, 12개 (63% 할인 · 7,900원)",
     "url": "https://toss.im/_m/ZTyaLxBe",
-    "img": "img/Bhc뿌링팝콘60g12개63할인7900원.png"
+    "img": "img/Bhc뿌링팝콘60g12개63할인7900원.png",
+    "title": "Bhc 뿌링팝콘, 60g, 12개",
+    "pid": 2517647825,
+    "discount": 63,
+    "price": 7900,
+    "now": 12900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "에쏘브로 콜드브루 원액, 1kg, 2개 (59% 할인 · 8,800원)",
     "url": "https://toss.im/_m/f9n8l5mw",
-    "img": "img/에쏘브로콜드브루원액1kg2개59할인8800원.png"
+    "img": "img/에쏘브로콜드브루원액1kg2개59할인8800원.png",
+    "title": "에쏘브로 콜드브루 원액, 1kg, 2개",
+    "pid": 2522965497,
+    "discount": 59,
+    "price": 8800,
+    "now": 15900,
+    "checked": "2026-09-07",
+    "status": "soldout"
   },
   {
     "name": "슈가로로 애사비 에이드 사과, 410ml, 24병 (81% 할인 · 10,900원)",
     "url": "https://toss.im/_m/bdRn5If2",
-    "img": "img/슈가로로애사비에이드사과410ml24병81할인.png"
+    "img": "img/슈가로로애사비에이드사과410ml24병81할인.png",
+    "title": "슈가로로 애사비 에이드 사과, 410ml, 24병",
+    "pid": 79942977,
+    "discount": 81,
+    "price": 10900,
+    "now": 32900,
+    "checked": "2026-09-07",
+    "status": "soldout"
   },
   {
     "name": "필립스 오픈형 무선 블루투스 이어폰, TAT1138, 화이트, 1개 (88% 할인 · 9,030원)",
     "url": "https://toss.im/_m/bBwaIea6",
-    "img": "img/필립스오픈형무선블루투스이어폰TAT1138화이.png"
+    "img": "img/필립스오픈형무선블루투스이어폰TAT1138화이.png",
+    "title": "필립스 오픈형 무선 블루투스 이어폰, TAT1138, 화이트, 1개",
+    "pid": 671975657,
+    "discount": 88,
+    "price": 9030,
+    "now": 9030,
+    "checked": "2026-09-07",
+    "status": "soldout"
   },
   {
     "name": "베라 4ZERO 뽑아쓰는 미용티슈, 250매, 6팩 (75% 할인 · 5,110원)",
     "url": "https://toss.im/_m/nm6FIiCt",
-    "img": "img/베라4ZERO뽑아쓰는미용티슈250매6팩75할.png"
+    "img": "img/베라4ZERO뽑아쓰는미용티슈250매6팩75할.png",
+    "title": "베라 4ZERO 뽑아쓰는 미용티슈, 250매, 6팩",
+    "pid": 1487103361,
+    "discount": 75,
+    "price": 5110,
+    "now": 5110,
+    "checked": "2026-09-07"
   },
   {
     "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 블랑쉬향, 510ml, 2개 (82% 할인 · 6,980원)",
     "url": "https://toss.im/_m/xawrR19g",
-    "img": "img/수뜰리에클린퍼퓸포밍핸드워시블랑쉬향510ml2.png"
+    "img": "img/수뜰리에클린퍼퓸포밍핸드워시블랑쉬향510ml2.png",
+    "title": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 블랑쉬향, 510ml, 2개",
+    "pid": 146304965,
+    "discount": 82,
+    "price": 6980,
+    "now": 6980,
+    "checked": "2026-09-07"
   },
   {
     "name": "맘스럽 베이킹소다, 파우치, 5kg, 1개 (71% 할인 · 3,990원)",
     "url": "https://toss.im/_m/tr4Zvzy3",
-    "img": "img/맘스럽베이킹소다파우치5kg1개71할인3990.png"
+    "img": "img/맘스럽베이킹소다파우치5kg1개71할인3990.png",
+    "title": "맘스럽 베이킹소다, 파우치, 5kg, 1개",
+    "pid": 88245543,
+    "discount": 71,
+    "price": 3990,
+    "now": 3990,
+    "checked": "2026-09-07"
   },
   {
     "name": "에브리워터 무라벨, 500ml, 40개 (61% 할인 · 7,680원)",
     "url": "https://toss.im/_m/3YMFqYkm",
-    "img": "img/에브리워터무라벨500ml40개61할인7680.png"
+    "img": "img/에브리워터무라벨500ml40개61할인7680.png",
+    "title": "에브리워터 무라벨, 500ml, 40개",
+    "pid": 12833301,
+    "discount": 61,
+    "price": 7680,
+    "now": 7680,
+    "checked": "2026-09-07"
   },
   {
     "name": "풀무원샘물, 라벨랜덤, 500ml, 100개 (58% 할인 · 14,530원)",
     "url": "https://toss.im/_m/XtlFVdKp",
-    "img": "img/풀무원샘물라벨랜덤500ml100개58할인14.png"
+    "img": "img/풀무원샘물라벨랜덤500ml100개58할인14.png",
+    "title": "풀무원샘물, 라벨랜덤, 500ml, 100개",
+    "pid": 864654653,
+    "discount": 58,
+    "price": 14530,
+    "now": 22999,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트 (43% 할인 · 13,570원)",
     "url": "https://toss.im/_m/Hv75ya92",
-    "img": "img/산과들에원데이발란스그린하루견과20g50봉1세.png"
+    "img": "img/산과들에원데이발란스그린하루견과20g50봉1세.png",
+    "title": "산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
+    "pid": 271983661,
+    "discount": 43,
+    "price": 13570,
+    "now": 16900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개 (48% 할인 · 8,180원)",
     "url": "https://toss.im/_m/turC7SmB",
-    "img": "img/푸디헤븐꾸지뽕왕족발1kg1개48할인8180원.png"
+    "img": "img/푸디헤븐꾸지뽕왕족발1kg1개48할인8180원.png",
+    "title": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+    "pid": 145684251,
+    "discount": 48,
+    "price": 8180,
+    "now": 12771,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉 (51% 할인 · 8,730원)",
     "url": "https://toss.im/_m/HK9pfbPe",
-    "img": "img/참도깨비어묵장인박경도한끼어묵탕220g5봉51.png"
+    "img": "img/참도깨비어묵장인박경도한끼어묵탕220g5봉51.png",
+    "title": "참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
+    "pid": 418996905,
+    "discount": 51,
+    "price": 8730,
+    "now": 13711,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개 (62% 할인 · 6,330원)",
     "url": "https://toss.im/_m/nPXOYkP9",
-    "img": "img/맛장군오늘담근생김치겉절이2kg1개62할인63.png"
+    "img": "img/맛장군오늘담근생김치겉절이2kg1개62할인63.png",
+    "title": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+    "pid": 153902721,
+    "discount": 62,
+    "price": 6330,
+    "now": 9900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "풍연 백설기, 50g, 20개 (68% 할인 · 6,330원)",
     "url": "https://toss.im/_m/7PjM7KDi",
-    "img": "img/풍연백설기50g20개68할인6330원.png"
+    "img": "img/풍연백설기50g20개68할인6330원.png",
+    "title": "풍연 백설기, 50g, 20개",
+    "pid": 323809403,
+    "discount": 68,
+    "price": 6330,
+    "now": 11950,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩 (74% 할인 · 9,690원)",
     "url": "https://toss.im/_m/jHoUVmIa",
-    "img": "img/베라무해력4ZERO뽑아쓰는키친타월3겹100매.png"
+    "img": "img/베라무해력4ZERO뽑아쓰는키친타월3겹100매.png",
+    "title": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
+    "pid": 1457717401,
+    "discount": 74,
+    "price": 9690,
+    "now": 14490,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "고기중독 닭다리 북채, 1kg, 2팩 (68% 할인 · 12,380원)",
     "url": "https://toss.im/_m/VIlR49O5",
-    "img": "img/고기중독닭다리북채1kg2팩68할인12380원.png"
+    "img": "img/고기중독닭다리북채1kg2팩68할인12380원.png",
+    "title": "고기중독 닭다리 북채, 1kg, 2팩",
+    "pid": 2459908895,
+    "discount": 68,
+    "price": 12380,
+    "now": 15800,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "바른 돼지국밥, 500g, 5개 (57% 할인 · 11,380원)",
     "url": "https://toss.im/_m/hjUozA5w",
-    "img": "img/바른돼지국밥500g5개57할인11380원.png"
+    "img": "img/바른돼지국밥500g5개57할인11380원.png",
+    "title": "바른 돼지국밥, 500g, 5개",
+    "pid": 2261736857,
+    "discount": 57,
+    "price": 11380,
+    "now": 11380,
+    "checked": "2026-09-07"
   },
   {
     "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개 (56% 할인 · 12,900원)",
     "url": "https://toss.im/_m/rM8bmkFz",
-    "img": "img/스페시핏곰팡이제거제플러스500ml2개56할인.png"
+    "img": "img/스페시핏곰팡이제거제플러스500ml2개56할인.png",
+    "title": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+    "pid": 147861155,
+    "discount": 56,
+    "price": 12900,
+    "now": 15800,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "대상 루테인 플러스, 30캡슐, 6박스 (87% 할인 · 14,500원)",
     "url": "https://toss.im/_m/ztaAWOu9",
-    "img": "img/대상루테인플러스30캡슐6박스87할인14500.png"
+    "img": "img/대상루테인플러스30캡슐6박스87할인14500.png",
+    "title": "대상 루테인 플러스, 30캡슐, 6박스",
+    "pid": 133534567,
+    "discount": 87,
+    "price": 14500,
+    "now": 16500,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개 (83% 할인 · 5,420원)",
     "url": "https://toss.im/_m/LyRRYBlc",
-    "img": "img/스페시핏곰팡이제거제플러스500ml2개83할인.png"
+    "img": "img/스페시핏곰팡이제거제플러스500ml2개83할인.png",
+    "title": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+    "pid": 147861155,
+    "discount": 83,
+    "price": 5420,
+    "now": 15800,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "백년건강 두번 구운 파래김, 40매, 65g, 1봉 (57% 할인 · 4,650원)",
     "url": "https://toss.im/_m/50X1SRrB",
-    "img": "img/백년건강두번구운파래김40매65g1봉57할인4.png"
+    "img": "img/백년건강두번구운파래김40매65g1봉57할인4.png",
+    "title": "백년건강 두번 구운 파래김, 40매, 65g, 1봉",
+    "pid": 141412975,
+    "discount": 57,
+    "price": 4650,
+    "now": 7900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개 (81% 할인 · 5,480원)",
     "url": "https://toss.im/_m/37kCQEQ",
-    "img": "img/팬톤오픈형블루투스60무선이어폰베이지1개81할.png"
+    "img": "img/팬톤오픈형블루투스60무선이어폰베이지1개81할.png",
+    "title": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
+    "pid": 807365761,
+    "discount": 81,
+    "price": 5480,
+    "now": 10900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 4개 (66% 할인 · 7,310원)",
     "url": "https://toss.im/_m/vKpDoqS9",
-    "img": "img/센토프라임고불소구취케어치약아쿠아민트향120g.png"
+    "img": "img/센토프라임고불소구취케어치약아쿠아민트향120g.png",
+    "title": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 4개",
+    "pid": 122426379,
+    "discount": 66,
+    "price": 7310,
+    "now": 12900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩 (86% 할인 · 4,720원)",
     "url": "https://toss.im/_m/d5cEl2xe",
-    "img": "img/가그린스탠다드컴팩트미세모칫솔16개입1팩86할.png"
+    "img": "img/가그린스탠다드컴팩트미세모칫솔16개입1팩86할.png",
+    "title": "가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩",
+    "pid": 2017255869,
+    "discount": 86,
+    "price": 4720,
+    "now": 9900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "전통압착 통참기름, 350ml, 4개 (83% 할인 · 15,920원)",
     "url": "https://toss.im/_m/rWv63ilC",
-    "img": "img/전통압착통참기름350ml4개83할인15920.png"
+    "img": "img/전통압착통참기름350ml4개83할인15920.png",
+    "title": "전통압착 통참기름, 350ml, 4개",
+    "pid": 513747509,
+    "discount": 83,
+    "price": 15920,
+    "now": 26300,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "푸드센터 소갈비살, 200g, 5팩 (70% 할인 · 29,500원)",
     "url": "https://toss.im/_m/h2LfGz3w",
-    "img": "img/푸드센터소갈비살200g5팩70할인29500원.png"
+    "img": "img/푸드센터소갈비살200g5팩70할인29500원.png",
+    "title": "푸드센터 소갈비살, 200g, 5팩",
+    "pid": 2460475873,
+    "discount": 70,
+    "price": 29500,
+    "now": 29500,
+    "checked": "2026-09-07"
   },
   {
     "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레 (79% 할인 · 4,200원)",
     "url": "https://toss.im/_m/VRsQTA3A",
-    "img": "img/발이편한카바밴딩중목양말화이트10켤레79할인4.png"
+    "img": "img/발이편한카바밴딩중목양말화이트10켤레79할인4.png",
+    "title": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
+    "pid": 2264708383,
+    "discount": 79,
+    "price": 4200,
+    "now": 4200,
+    "checked": "2026-09-07"
   },
   {
     "name": "더 빅토리아, 플레인, 500ml, 20개 (59% 할인 · 7,200원)",
     "url": "https://toss.im/_m/7ppoGyRk",
-    "img": "img/더빅토리아플레인500ml20개59할인7200.png"
+    "img": "img/더빅토리아플레인500ml20개59할인7200.png",
+    "title": "더 빅토리아, 플레인, 500ml, 20개",
+    "pid": 84326493,
+    "discount": 59,
+    "price": 7200,
+    "now": 8900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "예진원 국내산 ABC주스, 80ml, 100포, 1개 (57% 할인 · 18,130원)",
     "url": "https://toss.im/_m/PryGCK0A",
-    "img": "img/예진원국내산ABC주스80ml100포1개57할.png"
+    "img": "img/예진원국내산ABC주스80ml100포1개57할.png",
+    "title": "예진원 국내산 ABC주스, 80ml, 100포, 1개",
+    "pid": 146650681,
+    "discount": 57,
+    "price": 18130,
+    "now": 29500,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩 (82% 할인 · 5,990원)",
     "url": "https://toss.im/_m/zWN5jtJ9",
-    "img": "img/푸릇담젊은농부양배추즙100ml30팩82할인5.png"
+    "img": "img/푸릇담젊은농부양배추즙100ml30팩82할인5.png",
+    "title": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+    "pid": 2523489535,
+    "discount": 82,
+    "price": 5990,
+    "now": 11990,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "스파클 생수, 무라벨, 2L, 24개 (55% 할인 · 8,990원)",
     "url": "https://toss.im/_m/Lti69lQu",
-    "img": "img/스파클생수무라벨2L24개55할인8990원.png"
+    "img": "img/스파클생수무라벨2L24개55할인8990원.png",
+    "title": "스파클 생수, 무라벨, 2L, 24개",
+    "pid": 90382271,
+    "discount": 55,
+    "price": 8990,
+    "now": 8990,
+    "checked": "2026-09-07"
   },
   {
     "name": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개 (88% 할인 · 4,590원)",
     "url": "https://toss.im/_m/HgHybax8",
-    "img": "img/수뜰리에소프트섬유유연제비누향25L4개88할인.png"
+    "img": "img/수뜰리에소프트섬유유연제비누향25L4개88할인.png",
+    "title": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
+    "pid": 2559049861,
+    "discount": 88,
+    "price": 4590,
+    "now": 4590,
+    "checked": "2026-09-07"
   },
   {
     "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩 (68% 할인 · 9,000원)",
     "url": "https://toss.im/_m/JjOFlZYe",
-    "img": "img/던킨미니글레이즈드15g10개3팩68할인900.png"
+    "img": "img/던킨미니글레이즈드15g10개3팩68할인900.png",
+    "title": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
+    "pid": 2163303921,
+    "discount": 68,
+    "price": 9000,
+    "now": 18900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 실내건조형, 200개입, 1개 (71% 할인 · 5,700원)",
     "url": "https://toss.im/_m/drr9GEt4",
-    "img": "img/맘스럽아토워시프렌치라벤더캡슐세제파우치형실내건.png"
+    "img": "img/맘스럽아토워시프렌치라벤더캡슐세제파우치형실내건.png",
+    "title": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 실내건조형, 200개입, 1개",
+    "pid": 102193743,
+    "discount": 71,
+    "price": 5700,
+    "now": 10900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "셰프초이스 제육 불고기, 1.5kg, 1개 (58% 할인 · 8,600원)",
     "url": "https://toss.im/_m/HUBGWrss",
-    "img": "img/셰프초이스제육불고기15kg1개58할인8600.png"
+    "img": "img/셰프초이스제육불고기15kg1개58할인8600.png",
+    "title": "셰프초이스 제육 불고기, 1.5kg, 1개",
+    "pid": 281907477,
+    "discount": 58,
+    "price": 8600,
+    "now": 17900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "2in1 에어슬림 무선청소기 YQ-669, 화이트, 1개 (91% 할인 · 24,680원)",
     "url": "https://toss.im/_m/1TTscD4v",
-    "img": "img/2in1에어슬림무선청소기YQ669화이트1개9.png"
+    "img": "img/2in1에어슬림무선청소기YQ669화이트1개9.png",
+    "title": "2in1 에어슬림 무선청소기 YQ-669, 화이트, 1개",
+    "pid": 437812827,
+    "discount": 91,
+    "price": 24680,
+    "now": 24680,
+    "checked": "2026-09-07"
   },
   {
     "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩 (74% 할인 · 6,170원)",
     "url": "https://toss.im/_m/9ThtoMUa",
-    "img": "img/리벤스오리지널플러스대용량엠보싱캡형물티슈100.png"
+    "img": "img/리벤스오리지널플러스대용량엠보싱캡형물티슈100.png",
+    "title": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
+    "pid": 121687325,
+    "discount": 74,
+    "price": 6170,
+    "now": 10900,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "스파클 무라벨 생수 500ml 80개 (63% 할인 · 8,700원)",
     "url": "https://toss.im/_m/7Vzun9Yt",
-    "img": "img/스파클무라벨생수500ml80개63할인8700.png"
+    "img": "img/스파클무라벨생수500ml80개63할인8700.png",
+    "title": "스파클 무라벨 생수 500ml 80개",
+    "pid": 10143179,
+    "discount": 63,
+    "price": 8700,
+    "now": 8800,
+    "checked": "2026-09-07",
+    "status": "ended"
   },
   {
     "name": "고궁 통참깨 참기름 350ml 4개 (65% 할인 · 20,900원)",
     "url": "https://toss.im/_m/vtWmbveC",
-    "img": "img/고궁통참깨참기름350ml4개65할인20900.png"
+    "img": "img/고궁통참깨참기름350ml4개65할인20900.png",
+    "title": "고궁 통참깨 참기름 350ml 4개",
+    "pid": 383195205,
+    "discount": 65,
+    "price": 20900,
+    "now": 24500,
+    "checked": "2026-09-07",
+    "status": "ended"
   }
 ]
