@@ -6,7 +6,9 @@
     "pid": 2635765919,
     "title": "던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
     "price": 6600,
-    "discount": 72
+    "discount": 72,
+    "now": 6600,
+    "checked": "2026-09-11"
   },
   {
     "name": "수뜰리에 캡슐 세탁조클리너, 110g, 2개 (78% 할인 · 4,130원)",
@@ -15,7 +17,10 @@
     "pid": 2644430433,
     "title": "수뜰리에 캡슐 세탁조클리너, 110g, 2개",
     "price": 4130,
-    "discount": 78
+    "discount": 78,
+    "now": 9980,
+    "checked": "2026-09-11",
+    "status": "ended"
   },
   {
     "name": "베라 무해력 4ZERO 뽑아쓰는 미용티슈, 250매, 12팩 (82% 할인 · 7,300원)",
@@ -24,7 +29,9 @@
     "pid": 2534542603,
     "title": "베라 무해력 4ZERO 뽑아쓰는 미용티슈, 250매, 12팩",
     "price": 7300,
-    "discount": 82
+    "discount": 82,
+    "now": 7300,
+    "checked": "2026-09-11"
   },
   {
     "name": "비로르 304 스텐 주방 가위, 팬더, 20.5cm, 2개 (78% 할인 · 6,400원)",
@@ -35,7 +42,7 @@
     "price": 6400,
     "discount": 78,
     "now": 6400,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "한돈 스테이크, 600g, 1팩 (73% 할인 · 5,900원)",
@@ -46,7 +53,7 @@
     "price": 5900,
     "discount": 73,
     "now": 5900,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩 (74% 할인 · 12,900원)",
@@ -57,7 +64,7 @@
     "price": 12900,
     "discount": 74,
     "now": 12900,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트 (81% 할인 · 5,500원)",
@@ -68,7 +75,7 @@
     "price": 5500,
     "discount": 81,
     "now": 5500,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "순살 양념 목살구이, 600g, 3개 (57% 할인 · 16,900원)",
@@ -79,7 +86,7 @@
     "price": 16900,
     "discount": 57,
     "now": 20900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -91,7 +98,7 @@
     "price": 6000,
     "discount": 65,
     "now": 6000,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "고기중독 양념 LA갈비, 1kg, 1팩 (74% 할인 · 12,900원)",
@@ -102,7 +109,7 @@
     "price": 12900,
     "discount": 74,
     "now": 12900,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "프로프룻 햇 홍로사과, 5kg, 1박스 (78% 할인 · 16,900원)",
@@ -124,7 +131,7 @@
     "discount": 47,
     "price": 10400,
     "now": 12900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -136,7 +143,7 @@
     "discount": 86,
     "price": 16500,
     "now": 16500,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩 (41% 할인 · 12,990원)",
@@ -147,7 +154,7 @@
     "discount": 41,
     "price": 12990,
     "now": 12400,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "cheaper"
   },
   {
@@ -158,8 +165,8 @@
     "pid": 2620612131,
     "discount": 66,
     "price": 9990,
-    "now": 20898,
-    "checked": "2026-09-10",
+    "now": 16299,
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -171,7 +178,7 @@
     "discount": 64,
     "price": 5290,
     "now": 5290,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개 (64% 할인 · 4,990원)",
@@ -182,7 +189,7 @@
     "discount": 64,
     "price": 4990,
     "now": 4990,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "구워먹는 할루미치즈, 200g, 3개 (65% 할인 · 7,600원)",
@@ -193,7 +200,7 @@
     "discount": 65,
     "price": 7600,
     "now": 7600,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩 (77% 할인 · 5,460원)",
@@ -204,7 +211,7 @@
     "discount": 77,
     "price": 5460,
     "now": 12400,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -216,7 +223,7 @@
     "discount": 82,
     "price": 11900,
     "now": 10900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "cheaper"
   },
   {
@@ -228,7 +235,7 @@
     "discount": 50,
     "price": 14890,
     "now": 19900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -240,7 +247,7 @@
     "discount": 75,
     "price": 8330,
     "now": 29900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "soldout"
   },
   {
@@ -252,7 +259,7 @@
     "discount": 96,
     "price": 4900,
     "now": 19900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "soldout"
   },
   {
@@ -264,7 +271,7 @@
     "discount": 61,
     "price": 5800,
     "now": 9900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -276,7 +283,7 @@
     "discount": 63,
     "price": 7900,
     "now": 14900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -288,7 +295,7 @@
     "discount": 59,
     "price": 8800,
     "now": 15900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -300,7 +307,7 @@
     "discount": 81,
     "price": 10900,
     "now": 32900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "soldout"
   },
   {
@@ -312,7 +319,7 @@
     "discount": 88,
     "price": 9030,
     "now": 9030,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "soldout"
   },
   {
@@ -324,7 +331,7 @@
     "discount": 75,
     "price": 5110,
     "now": 8800,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -336,7 +343,7 @@
     "discount": 82,
     "price": 6980,
     "now": 6980,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "맘스럽 베이킹소다, 파우치, 5kg, 1개 (71% 할인 · 3,990원)",
@@ -347,7 +354,7 @@
     "discount": 71,
     "price": 3990,
     "now": 11400,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -359,7 +366,7 @@
     "discount": 61,
     "price": 7680,
     "now": 7680,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "풀무원샘물, 라벨랜덤, 500ml, 100개 (58% 할인 · 14,530원)",
@@ -370,7 +377,7 @@
     "discount": 58,
     "price": 14530,
     "now": 22999,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -382,7 +389,7 @@
     "discount": 43,
     "price": 13570,
     "now": 18780,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -393,8 +400,8 @@
     "pid": 145684251,
     "discount": 48,
     "price": 8180,
-    "now": 12771,
-    "checked": "2026-09-10",
+    "now": 12132,
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -405,8 +412,8 @@
     "pid": 418996905,
     "discount": 51,
     "price": 8730,
-    "now": 13711,
-    "checked": "2026-09-10",
+    "now": 12711,
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -418,7 +425,7 @@
     "discount": 62,
     "price": 6330,
     "now": 9900,
-    "checked": "2026-09-09",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -430,7 +437,7 @@
     "discount": 68,
     "price": 6330,
     "now": 11950,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -442,7 +449,7 @@
     "discount": 74,
     "price": 9690,
     "now": 14490,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -454,7 +461,7 @@
     "discount": 68,
     "price": 12380,
     "now": 15800,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -466,7 +473,7 @@
     "discount": 57,
     "price": 11380,
     "now": 14900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -478,7 +485,7 @@
     "discount": 56,
     "price": 12900,
     "now": 15800,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -490,7 +497,7 @@
     "discount": 87,
     "price": 14500,
     "now": 16500,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -502,7 +509,7 @@
     "discount": 83,
     "price": 5420,
     "now": 15800,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -513,8 +520,8 @@
     "pid": 141412975,
     "discount": 57,
     "price": 4650,
-    "now": 7900,
-    "checked": "2026-09-10",
+    "now": 7505,
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -526,7 +533,7 @@
     "discount": 81,
     "price": 5480,
     "now": 10900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -538,7 +545,7 @@
     "discount": 66,
     "price": 7310,
     "now": 12900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -550,7 +557,7 @@
     "discount": 86,
     "price": 4720,
     "now": 9900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -562,7 +569,7 @@
     "discount": 83,
     "price": 15920,
     "now": 26300,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -574,7 +581,7 @@
     "discount": 70,
     "price": 29500,
     "now": 29500,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레 (79% 할인 · 4,200원)",
@@ -585,7 +592,7 @@
     "discount": 79,
     "price": 4200,
     "now": 6900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -597,7 +604,7 @@
     "discount": 59,
     "price": 7200,
     "now": 11900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -609,7 +616,7 @@
     "discount": 57,
     "price": 18130,
     "now": 29500,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -621,7 +628,7 @@
     "discount": 82,
     "price": 5990,
     "now": 6200,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -633,7 +640,7 @@
     "discount": 55,
     "price": 8990,
     "now": 13480,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -645,7 +652,7 @@
     "discount": 88,
     "price": 4590,
     "now": 8890,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -657,7 +664,7 @@
     "discount": 68,
     "price": 9000,
     "now": 20900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -669,7 +676,7 @@
     "discount": 71,
     "price": 5700,
     "now": 10900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -680,8 +687,8 @@
     "pid": 281907477,
     "discount": 58,
     "price": 8600,
-    "now": 17900,
-    "checked": "2026-09-10",
+    "now": 15900,
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -693,7 +700,7 @@
     "discount": 91,
     "price": 24680,
     "now": 24680,
-    "checked": "2026-09-10"
+    "checked": "2026-09-11"
   },
   {
     "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩 (74% 할인 · 6,170원)",
@@ -704,7 +711,7 @@
     "discount": 74,
     "price": 6170,
     "now": 10900,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -716,7 +723,7 @@
     "discount": 63,
     "price": 8700,
     "now": 8800,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   },
   {
@@ -728,7 +735,7 @@
     "discount": 65,
     "price": 20900,
     "now": 26700,
-    "checked": "2026-09-10",
+    "checked": "2026-09-11",
     "status": "ended"
   }
 ]
