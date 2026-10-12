@@ -7,8 +7,9 @@
     "title": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
     "price": 10990,
     "discount": 76,
-    "now": 10990,
-    "checked": "2026-10-11"
+    "now": 13990,
+    "checked": "2026-10-12",
+    "status": "ended"
   },
   {
     "name": "슬림떡볶이 로제맛, 230g, 4개 (64% 할인 · 5,530원)",
@@ -19,7 +20,8 @@
     "price": 5530,
     "discount": 64,
     "now": 5530,
-    "checked": "2026-10-11"
+    "checked": "2026-10-12",
+    "status": "soldout"
   },
   {
     "name": "크라운 빙수하임 말차팥빙수, 284g, 2개 (66% 할인 · 6,600원)",
@@ -30,7 +32,7 @@
     "price": 6600,
     "discount": 66,
     "now": 16940,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -64,8 +66,9 @@
     "title": "포천이동 양념LA갈비, 500g, 1팩",
     "price": 6990,
     "discount": 56,
-    "now": 6990,
-    "checked": "2026-10-11"
+    "now": 14900,
+    "checked": "2026-10-12",
+    "status": "ended"
   },
   {
     "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개 (66% 할인 · 4,990원)",
@@ -75,8 +78,9 @@
     "title": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
     "price": 4990,
     "discount": 66,
-    "now": 4990,
-    "checked": "2026-10-11"
+    "now": 7200,
+    "checked": "2026-10-12",
+    "status": "ended"
   },
   {
     "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개 (88% 할인 · 6,930원)",
@@ -98,7 +102,7 @@
     "price": 7990,
     "discount": 42,
     "now": 7990,
-    "checked": "2026-10-11"
+    "checked": "2026-10-12"
   },
   {
     "name": "탑프룻 망고젤리, 망고맛, 320g, 3개 (61% 할인 · 6,930원)",
@@ -108,8 +112,8 @@
     "title": "탑프룻 망고젤리, 망고맛, 320g, 3개",
     "price": 6930,
     "discount": 61,
-    "now": 8900,
-    "checked": "2026-10-11",
+    "now": 12900,
+    "checked": "2026-10-12",
     "status": "soldout"
   },
   {
@@ -121,7 +125,7 @@
     "price": 4990,
     "discount": 68,
     "now": 12900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -143,9 +147,9 @@
     "title": "촉촉한 한입 밀크카스테라 우유케이크 대용량 개별포장, 1kg, 28개, 1팩",
     "price": 6900,
     "discount": 78,
-    "now": 6900,
-    "checked": "2026-10-11",
-    "status": "soldout"
+    "now": 15900,
+    "checked": "2026-10-12",
+    "status": "ended"
   },
   {
     "name": "맛꾼 메추리알 장조림, 1kg, 2개 (55% 할인 · 8,900원)",
@@ -155,8 +159,8 @@
     "title": "맛꾼 메추리알 장조림, 1kg, 2개",
     "price": 8900,
     "discount": 55,
-    "now": 8900,
-    "checked": "2026-10-11",
+    "now": 20000,
+    "checked": "2026-10-12",
     "status": "soldout"
   },
   {
@@ -168,7 +172,7 @@
     "price": 11500,
     "discount": 76,
     "now": 24500,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -179,8 +183,8 @@
     "title": "이지앤프리 블랙 에디션 김치통, 블랙, 3.2L, 2통",
     "price": 4800,
     "discount": 69,
-    "now": 15800,
-    "checked": "2026-10-11",
+    "now": 6900,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -192,7 +196,7 @@
     "price": 8450,
     "discount": 81,
     "now": 9900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -203,8 +207,8 @@
     "title": "나누담 물받이 밀폐용기, 3000ml, 2개",
     "price": 5950,
     "discount": 55,
-    "now": 12700,
-    "checked": "2026-10-11",
+    "now": 7990,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -216,7 +220,7 @@
     "price": 4990,
     "discount": 68,
     "now": 12900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -228,7 +232,7 @@
     "price": 9900,
     "discount": 57,
     "now": 17900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -240,7 +244,7 @@
     "price": 8330,
     "discount": 73,
     "now": 19900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -251,8 +255,8 @@
     "title": "노르디쿡 IH 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
     "price": 8330,
     "discount": 91,
-    "now": 17400,
-    "checked": "2026-10-11",
+    "now": 17900,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -264,7 +268,7 @@
     "price": 8990,
     "discount": 52,
     "now": 18900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -276,7 +280,7 @@
     "price": 4990,
     "discount": 83,
     "now": 8900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -288,7 +292,7 @@
     "price": 5990,
     "discount": 65,
     "now": 11900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -300,7 +304,7 @@
     "price": 7700,
     "discount": 89,
     "now": 12900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -324,7 +328,7 @@
     "price": 9000,
     "discount": 54,
     "now": 14900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -336,7 +340,7 @@
     "price": 4480,
     "discount": 65,
     "now": 9400,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -348,7 +352,7 @@
     "price": 14300,
     "discount": 30,
     "now": 14700,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -359,8 +363,8 @@
     "title": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
     "price": 5990,
     "discount": 66,
-    "now": 8890,
-    "checked": "2026-10-11",
+    "now": 10500,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -372,7 +376,7 @@
     "price": 6860,
     "discount": 73,
     "now": 16490,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -384,7 +388,7 @@
     "price": 7300,
     "discount": 78,
     "now": 11500,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -408,7 +412,7 @@
     "price": 8000,
     "discount": 65,
     "now": 13900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -420,7 +424,7 @@
     "price": 8900,
     "discount": 77,
     "now": 15880,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -432,7 +436,7 @@
     "price": 6990,
     "discount": 62,
     "now": 12500,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -444,7 +448,7 @@
     "price": 9990,
     "discount": 44,
     "now": 15379,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -455,8 +459,8 @@
     "title": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
     "price": 7350,
     "discount": 63,
-    "now": 12900,
-    "checked": "2026-10-11",
+    "now": 10500,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -468,7 +472,7 @@
     "price": 7630,
     "discount": 52,
     "now": 12530,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -480,7 +484,7 @@
     "price": 7990,
     "discount": 50,
     "now": 15900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -491,8 +495,8 @@
     "title": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
     "price": 3990,
     "discount": 78,
-    "now": 8900,
-    "checked": "2026-10-11",
+    "now": 5900,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -503,8 +507,8 @@
     "title": "추억의 찹쌀 바삭 누룽지칩, 502g, 2팩",
     "price": 6600,
     "discount": 77,
-    "now": 15400,
-    "checked": "2026-10-11",
+    "now": 13900,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -516,7 +520,7 @@
     "price": 5530,
     "discount": 78,
     "now": 13900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -540,7 +544,7 @@
     "price": 7400,
     "discount": 62,
     "now": 12500,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -552,7 +556,7 @@
     "price": 6720,
     "discount": 75,
     "now": 18900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -564,7 +568,7 @@
     "price": 5000,
     "discount": 68,
     "now": 11900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -576,7 +580,7 @@
     "price": 10900,
     "discount": 78,
     "now": 21900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -587,8 +591,8 @@
     "title": "던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
     "price": 6600,
     "discount": 72,
-    "now": 19900,
-    "checked": "2026-10-11",
+    "now": 9480,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -612,7 +616,7 @@
     "price": 7300,
     "discount": 82,
     "now": 14990,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -623,8 +627,9 @@
     "title": "비로르 304 스텐 주방 가위, 팬더, 20.5cm, 2개",
     "price": 6400,
     "discount": 78,
-    "now": 6400,
-    "checked": "2026-10-11"
+    "now": 5500,
+    "checked": "2026-10-12",
+    "status": "cheaper"
   },
   {
     "name": "한돈 스테이크, 600g, 1팩 (73% 할인 · 5,900원)",
@@ -635,7 +640,7 @@
     "price": 5900,
     "discount": 73,
     "now": 14900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -647,7 +652,7 @@
     "price": 12900,
     "discount": 74,
     "now": 21900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -659,7 +664,7 @@
     "price": 5500,
     "discount": 81,
     "now": 10900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -670,9 +675,8 @@
     "title": "순살 양념 목살구이, 600g, 3개",
     "price": 16900,
     "discount": 57,
-    "now": 20900,
-    "checked": "2026-10-11",
-    "status": "ended"
+    "now": 16900,
+    "checked": "2026-10-12"
   },
   {
     "name": "마주 총각김치, 2kg, 1박스 (65% 할인 · 6,000원)",
@@ -682,8 +686,8 @@
     "title": "마주 총각김치, 2kg, 1박스",
     "price": 6000,
     "discount": 65,
-    "now": 11800,
-    "checked": "2026-10-11",
+    "now": 13900,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -695,8 +699,8 @@
     "price": 12900,
     "discount": 74,
     "now": 19990,
-    "checked": "2026-10-11",
-    "status": "ended"
+    "checked": "2026-10-12",
+    "status": "soldout"
   },
   {
     "name": "프로프룻 햇 홍로사과, 5kg, 1박스 (78% 할인 · 16,900원)",
@@ -717,9 +721,9 @@
     "pid": 36410559,
     "discount": 47,
     "price": 10400,
-    "now": 10400,
-    "checked": "2026-10-11",
-    "status": "soldout"
+    "now": 12400,
+    "checked": "2026-10-12",
+    "status": "ended"
   },
   {
     "name": "대상 루테인 플러스, 30캡슐, 6박스 (86% 할인 · 16,500원)",
@@ -740,8 +744,8 @@
     "pid": 13017669,
     "discount": 41,
     "price": 12990,
-    "now": 10900,
-    "checked": "2026-10-11",
+    "now": 9400,
+    "checked": "2026-10-12",
     "status": "cheaper"
   },
   {
@@ -752,8 +756,8 @@
     "pid": 2620612131,
     "discount": 66,
     "price": 9990,
-    "now": 20000,
-    "checked": "2026-10-11",
+    "now": 16700,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -764,8 +768,8 @@
     "pid": 1776020737,
     "discount": 64,
     "price": 5290,
-    "now": 8900,
-    "checked": "2026-10-11",
+    "now": 9801,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -777,7 +781,7 @@
     "discount": 64,
     "price": 4990,
     "now": 10900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -789,7 +793,7 @@
     "discount": 65,
     "price": 7600,
     "now": 14900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -800,8 +804,8 @@
     "pid": 13017669,
     "discount": 77,
     "price": 5460,
-    "now": 10900,
-    "checked": "2026-10-11",
+    "now": 9400,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -813,7 +817,7 @@
     "discount": 82,
     "price": 11900,
     "now": 10900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "cheaper"
   },
   {
@@ -825,7 +829,7 @@
     "discount": 50,
     "price": 14890,
     "now": 20900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -837,7 +841,7 @@
     "discount": 75,
     "price": 8330,
     "now": 29900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "soldout"
   },
   {
@@ -849,7 +853,7 @@
     "discount": 96,
     "price": 4900,
     "now": 19900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "soldout"
   },
   {
@@ -860,8 +864,8 @@
     "pid": 2598892675,
     "discount": 61,
     "price": 5800,
-    "now": 8150,
-    "checked": "2026-10-11",
+    "now": 13900,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -872,8 +876,8 @@
     "pid": 2517647825,
     "discount": 63,
     "price": 7900,
-    "now": 12900,
-    "checked": "2026-10-11",
+    "now": 11600,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -885,7 +889,7 @@
     "discount": 59,
     "price": 8800,
     "now": 15900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -897,7 +901,7 @@
     "discount": 81,
     "price": 10900,
     "now": 32900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "soldout"
   },
   {
@@ -909,7 +913,7 @@
     "discount": 88,
     "price": 9030,
     "now": 69900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "soldout"
   },
   {
@@ -921,7 +925,7 @@
     "discount": 75,
     "price": 5110,
     "now": 7990,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -945,7 +949,7 @@
     "discount": 71,
     "price": 3990,
     "now": 11400,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -956,8 +960,8 @@
     "pid": 12833301,
     "discount": 61,
     "price": 7680,
-    "now": 7970,
-    "checked": "2026-10-11",
+    "now": 7980,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -969,7 +973,7 @@
     "discount": 58,
     "price": 14530,
     "now": 22911,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -981,8 +985,8 @@
     "discount": 43,
     "price": 13570,
     "now": 17750,
-    "checked": "2026-10-11",
-    "status": "soldout"
+    "checked": "2026-10-12",
+    "status": "ended"
   },
   {
     "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개 (48% 할인 · 8,180원)",
@@ -992,8 +996,8 @@
     "pid": 145684251,
     "discount": 48,
     "price": 8180,
-    "now": 12771,
-    "checked": "2026-10-11",
+    "now": 9491,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1017,7 +1021,7 @@
     "discount": 62,
     "price": 6330,
     "now": 10900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1028,8 +1032,8 @@
     "pid": 323809403,
     "discount": 68,
     "price": 6330,
-    "now": 10830,
-    "checked": "2026-10-11",
+    "now": 8500,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1040,8 +1044,8 @@
     "pid": 1457717401,
     "discount": 74,
     "price": 9690,
-    "now": 12390,
-    "checked": "2026-10-11",
+    "now": 14490,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1052,8 +1056,8 @@
     "pid": 2459908895,
     "discount": 68,
     "price": 12380,
-    "now": 15800,
-    "checked": "2026-10-11",
+    "now": 13580,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1064,8 +1068,8 @@
     "pid": 2261736857,
     "discount": 57,
     "price": 11380,
-    "now": 16900,
-    "checked": "2026-10-11",
+    "now": 20700,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1077,7 +1081,7 @@
     "discount": 56,
     "price": 12900,
     "now": 15800,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1101,7 +1105,7 @@
     "discount": 83,
     "price": 5420,
     "now": 15800,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1113,7 +1117,7 @@
     "discount": 57,
     "price": 4650,
     "now": 7900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1124,9 +1128,9 @@
     "pid": 807365761,
     "discount": 81,
     "price": 5480,
-    "now": 4830,
-    "checked": "2026-10-11",
-    "status": "cheaper"
+    "now": 9900,
+    "checked": "2026-10-12",
+    "status": "ended"
   },
   {
     "name": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 4개 (66% 할인 · 7,310원)",
@@ -1137,7 +1141,7 @@
     "discount": 66,
     "price": 7310,
     "now": 12900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1160,8 +1164,8 @@
     "pid": 513747509,
     "discount": 83,
     "price": 15920,
-    "now": 26300,
-    "checked": "2026-10-11",
+    "now": 19900,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1173,7 +1177,7 @@
     "discount": 70,
     "price": 29500,
     "now": 29900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1184,8 +1188,9 @@
     "pid": 2264708383,
     "discount": 79,
     "price": 4200,
-    "now": 4200,
-    "checked": "2026-10-11"
+    "now": 6900,
+    "checked": "2026-10-12",
+    "status": "ended"
   },
   {
     "name": "더 빅토리아, 플레인, 500ml, 20개 (59% 할인 · 7,200원)",
@@ -1196,7 +1201,7 @@
     "discount": 59,
     "price": 7200,
     "now": 9900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1208,7 +1213,7 @@
     "discount": 57,
     "price": 18130,
     "now": 29500,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1219,8 +1224,8 @@
     "pid": 2523489535,
     "discount": 82,
     "price": 5990,
-    "now": 8970,
-    "checked": "2026-10-11",
+    "now": 11990,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1232,7 +1237,7 @@
     "discount": 55,
     "price": 8990,
     "now": 13490,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1256,7 +1261,7 @@
     "discount": 68,
     "price": 9000,
     "now": 19900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1267,8 +1272,8 @@
     "pid": 102193743,
     "discount": 71,
     "price": 5700,
-    "now": 18800,
-    "checked": "2026-10-11",
+    "now": 8200,
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1280,7 +1285,7 @@
     "discount": 58,
     "price": 8600,
     "now": 15900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1292,7 +1297,7 @@
     "discount": 91,
     "price": 24680,
     "now": 24770,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1304,7 +1309,7 @@
     "discount": 74,
     "price": 6170,
     "now": 10900,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1316,7 +1321,7 @@
     "discount": 63,
     "price": 8700,
     "now": 16500,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   },
   {
@@ -1328,7 +1333,7 @@
     "discount": 65,
     "price": 20900,
     "now": 25086,
-    "checked": "2026-10-11",
+    "checked": "2026-10-12",
     "status": "ended"
   }
 ]
