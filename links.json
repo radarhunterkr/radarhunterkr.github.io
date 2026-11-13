@@ -6,7 +6,9 @@
     "pid": 2335791299,
     "title": "맘스럽 플로럴 액체세제, 2.5L, 5개",
     "price": 6890,
-    "discount": 56
+    "discount": 56,
+    "now": 6890,
+    "checked": "2026-11-13"
   },
   {
     "name": "쏘울너츠 100% 땅콩버터, 크런치, 500g, 1개 + 스무스, 500g, 1개, 1세트 (72% 할인 · 6,900원)",
@@ -15,7 +17,10 @@
     "pid": 559210893,
     "title": "쏘울너츠 100% 땅콩버터, 크런치, 500g, 1개 + 스무스, 500g, 1개, 1세트",
     "price": 6900,
-    "discount": 72
+    "discount": 72,
+    "now": 8200,
+    "checked": "2026-11-13",
+    "status": "ended"
   },
   {
     "name": "고기중독 왕십리 칼집돼지 왕구이, 1kg, 2팩 (68% 할인 · 15,510원)",
@@ -24,7 +29,10 @@
     "pid": 1181979367,
     "title": "고기중독 왕십리 칼집돼지 왕구이, 1kg, 2팩",
     "price": 15510,
-    "discount": 68
+    "discount": 68,
+    "now": 16900,
+    "checked": "2026-11-13",
+    "status": "ended"
   },
   {
     "name": "파파네정육점 통삼겹살, 수육용, 1kg, 2개 (61% 할인 · 14,900원)",
@@ -34,8 +42,9 @@
     "title": "파파네정육점 통삼겹살, 수육용, 1kg, 2개",
     "price": 14900,
     "discount": 61,
-    "now": 14900,
-    "checked": "2026-11-12"
+    "now": 18310,
+    "checked": "2026-11-13",
+    "status": "soldout"
   },
   {
     "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개 (61% 할인 · 9,100원)",
@@ -46,7 +55,7 @@
     "price": 9100,
     "discount": 61,
     "now": 10900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -58,7 +67,7 @@
     "price": 6600,
     "discount": 67,
     "now": 7900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -70,7 +79,7 @@
     "price": 8720,
     "discount": 53,
     "now": 9500,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -82,7 +91,7 @@
     "price": 19900,
     "discount": 74,
     "now": 22700,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -94,7 +103,7 @@
     "price": 7630,
     "discount": 80,
     "now": 8890,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -106,7 +115,7 @@
     "price": 16900,
     "discount": 43,
     "now": 19900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -118,7 +127,7 @@
     "price": 9690,
     "discount": 61,
     "now": 14900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -130,7 +139,7 @@
     "price": 4960,
     "discount": 53,
     "now": 7751,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -142,7 +151,7 @@
     "price": 6760,
     "discount": 77,
     "now": 9900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -154,7 +163,7 @@
     "price": 6300,
     "discount": 66,
     "now": 7900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -166,7 +175,7 @@
     "price": 11400,
     "discount": 43,
     "now": 13480,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -178,7 +187,7 @@
     "price": 9805,
     "discount": 72,
     "now": 13900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -190,7 +199,7 @@
     "price": 8160,
     "discount": 89,
     "now": 9900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -202,7 +211,7 @@
     "price": 7620,
     "discount": 51,
     "now": 11800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -214,7 +223,7 @@
     "price": 11900,
     "discount": 64,
     "now": 16000,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -226,7 +235,7 @@
     "price": 5350,
     "discount": 70,
     "now": 6800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -250,7 +259,7 @@
     "price": 16500,
     "discount": 90,
     "now": 45000,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -262,7 +271,7 @@
     "price": 5500,
     "discount": 81,
     "now": 6256,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -274,7 +283,7 @@
     "price": 6990,
     "discount": 53,
     "now": 10990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -286,7 +295,7 @@
     "price": 10710,
     "discount": 56,
     "now": 18800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -298,7 +307,7 @@
     "price": 15620,
     "discount": 73,
     "now": 27900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -310,7 +319,7 @@
     "price": 22000,
     "discount": 68,
     "now": 35900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -321,8 +330,8 @@
     "title": "풀무원 샘물 생수, 무라벨, 500ml, 40개",
     "price": 6900,
     "discount": 61,
-    "now": 9723,
-    "checked": "2026-11-12",
+    "now": 9721,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -346,7 +355,7 @@
     "price": 10275,
     "discount": 48,
     "now": 12800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -358,7 +367,7 @@
     "price": 19900,
     "discount": 90,
     "now": 31255,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -382,7 +391,7 @@
     "price": 3310,
     "discount": 58,
     "now": 4900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -394,7 +403,7 @@
     "price": 14500,
     "discount": 67,
     "now": 17500,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -406,7 +415,7 @@
     "price": 11810,
     "discount": 52,
     "now": 15990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -418,7 +427,7 @@
     "price": 12850,
     "discount": 55,
     "now": 15900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -429,8 +438,8 @@
     "title": "스페시핏 뿌리는 곰팡이 제거제, 500ml, 2개",
     "price": 6500,
     "discount": 80,
-    "now": 13900,
-    "checked": "2026-11-12",
+    "now": 15800,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -442,7 +451,7 @@
     "price": 13900,
     "discount": 42,
     "now": 16490,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -454,7 +463,7 @@
     "price": 14900,
     "discount": 62,
     "now": 19980,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -466,7 +475,7 @@
     "price": 5990,
     "discount": 79,
     "now": 7600,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -478,8 +487,8 @@
     "price": 7300,
     "discount": 75,
     "now": 8800,
-    "checked": "2026-11-12",
-    "status": "ended"
+    "checked": "2026-11-13",
+    "status": "soldout"
   },
   {
     "name": "쏘울너츠 100% 땅콩버터 크런치, 500g, 2개 (65% 할인 · 6,970원)",
@@ -489,8 +498,8 @@
     "title": "쏘울너츠 100% 땅콩버터 크런치, 500g, 2개",
     "price": 6970,
     "discount": 65,
-    "now": 7500,
-    "checked": "2026-11-12",
+    "now": 8200,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -502,7 +511,7 @@
     "price": 8500,
     "discount": 64,
     "now": 10900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -514,7 +523,7 @@
     "price": 14500,
     "discount": 68,
     "now": 17990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -525,8 +534,8 @@
     "title": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
     "price": 5300,
     "discount": 70,
-    "now": 7260,
-    "checked": "2026-11-12",
+    "now": 8700,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -549,8 +558,8 @@
     "title": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
     "price": 6600,
     "discount": 67,
-    "now": 8500,
-    "checked": "2026-11-12",
+    "now": 7960,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -562,7 +571,7 @@
     "price": 7600,
     "discount": 73,
     "now": 13900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -574,7 +583,7 @@
     "price": 7200,
     "discount": 51,
     "now": 14900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -586,7 +595,7 @@
     "price": 6930,
     "discount": 88,
     "now": 14800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -598,7 +607,7 @@
     "price": 5950,
     "discount": 80,
     "now": 11900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -609,8 +618,8 @@
     "title": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
     "price": 10990,
     "discount": 76,
-    "now": 11900,
-    "checked": "2026-11-12",
+    "now": 15700,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -622,7 +631,7 @@
     "price": 5530,
     "discount": 64,
     "now": 7500,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -646,7 +655,7 @@
     "price": 3990,
     "discount": 83,
     "now": 5850,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -658,7 +667,7 @@
     "price": 4620,
     "discount": 88,
     "now": 8900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -670,7 +679,7 @@
     "price": 6990,
     "discount": 56,
     "now": 14900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -682,7 +691,7 @@
     "price": 4990,
     "discount": 66,
     "now": 11900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -693,8 +702,8 @@
     "title": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
     "price": 6930,
     "discount": 88,
-    "now": 39600,
-    "checked": "2026-11-12",
+    "now": 14800,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -706,7 +715,7 @@
     "price": 7990,
     "discount": 42,
     "now": 7890,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "cheaper"
   },
   {
@@ -718,7 +727,7 @@
     "price": 6930,
     "discount": 61,
     "now": 12900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -730,7 +739,7 @@
     "price": 4990,
     "discount": 68,
     "now": 12900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -742,7 +751,7 @@
     "price": 6230,
     "discount": 79,
     "now": 11900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -754,7 +763,7 @@
     "price": 6900,
     "discount": 78,
     "now": 18900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -766,7 +775,7 @@
     "price": 8900,
     "discount": 55,
     "now": 13900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -790,7 +799,7 @@
     "price": 4800,
     "discount": 69,
     "now": 6900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -802,7 +811,7 @@
     "price": 8450,
     "discount": 81,
     "now": 9900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -814,7 +823,7 @@
     "price": 5950,
     "discount": 55,
     "now": 8500,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -826,7 +835,7 @@
     "price": 4990,
     "discount": 68,
     "now": 12900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -838,7 +847,7 @@
     "price": 9900,
     "discount": 57,
     "now": 18900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -850,7 +859,7 @@
     "price": 8330,
     "discount": 73,
     "now": 15900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -861,8 +870,8 @@
     "title": "노르디쿡 IH 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
     "price": 8330,
     "discount": 91,
-    "now": 14900,
-    "checked": "2026-11-12",
+    "now": 15900,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -874,7 +883,7 @@
     "price": 8990,
     "discount": 52,
     "now": 18900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -886,7 +895,7 @@
     "price": 4990,
     "discount": 83,
     "now": 6900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -898,7 +907,7 @@
     "price": 5990,
     "discount": 65,
     "now": 10900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -910,7 +919,7 @@
     "price": 7700,
     "discount": 89,
     "now": 12900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -921,8 +930,8 @@
     "title": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
     "price": 5950,
     "discount": 84,
-    "now": 12900,
-    "checked": "2026-11-12",
+    "now": 10900,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -934,7 +943,7 @@
     "price": 9000,
     "discount": 54,
     "now": 14900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -946,7 +955,7 @@
     "price": 4480,
     "discount": 65,
     "now": 9400,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -958,7 +967,7 @@
     "price": 14300,
     "discount": 30,
     "now": 14980,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -970,7 +979,7 @@
     "price": 5990,
     "discount": 66,
     "now": 10500,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -982,7 +991,7 @@
     "price": 6860,
     "discount": 73,
     "now": 12900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -994,7 +1003,7 @@
     "price": 7300,
     "discount": 78,
     "now": 11500,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1006,7 +1015,7 @@
     "price": 4620,
     "discount": 88,
     "now": 8900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1018,7 +1027,7 @@
     "price": 8000,
     "discount": 65,
     "now": 13900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1030,7 +1039,7 @@
     "price": 8900,
     "discount": 77,
     "now": 13990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1042,7 +1051,7 @@
     "price": 6990,
     "discount": 62,
     "now": 9990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1054,7 +1063,7 @@
     "price": 9990,
     "discount": 44,
     "now": 14000,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1066,7 +1075,7 @@
     "price": 7350,
     "discount": 63,
     "now": 12900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1078,7 +1087,7 @@
     "price": 7630,
     "discount": 52,
     "now": 12770,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1090,7 +1099,7 @@
     "price": 7990,
     "discount": 50,
     "now": 15900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1102,7 +1111,7 @@
     "price": 3990,
     "discount": 78,
     "now": 7900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1114,7 +1123,7 @@
     "price": 6600,
     "discount": 77,
     "now": 15900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1126,7 +1135,7 @@
     "price": 5530,
     "discount": 78,
     "now": 10900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1138,7 +1147,7 @@
     "price": 2490,
     "discount": 93,
     "now": 7890,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1150,7 +1159,7 @@
     "price": 7400,
     "discount": 62,
     "now": 10900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1162,7 +1171,7 @@
     "price": 6720,
     "discount": 75,
     "now": 9600,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1174,7 +1183,7 @@
     "price": 5000,
     "discount": 68,
     "now": 11900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1186,7 +1195,7 @@
     "price": 10900,
     "discount": 78,
     "now": 21900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1198,7 +1207,7 @@
     "price": 6600,
     "discount": 72,
     "now": 9480,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1210,7 +1219,7 @@
     "price": 4130,
     "discount": 78,
     "now": 9970,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1222,7 +1231,7 @@
     "price": 7300,
     "discount": 82,
     "now": 13990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1234,7 +1243,7 @@
     "price": 6400,
     "discount": 78,
     "now": 6400,
-    "checked": "2026-11-12"
+    "checked": "2026-11-13"
   },
   {
     "name": "한돈 스테이크, 600g, 1팩 (73% 할인 · 5,900원)",
@@ -1245,7 +1254,7 @@
     "price": 5900,
     "discount": 73,
     "now": 18900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1257,7 +1266,7 @@
     "price": 12900,
     "discount": 74,
     "now": 21900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1269,7 +1278,7 @@
     "price": 5500,
     "discount": 81,
     "now": 10900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1281,7 +1290,7 @@
     "price": 16900,
     "discount": 57,
     "now": 16900,
-    "checked": "2026-11-12"
+    "checked": "2026-11-13"
   },
   {
     "name": "마주 총각김치, 2kg, 1박스 (65% 할인 · 6,000원)",
@@ -1292,7 +1301,7 @@
     "price": 6000,
     "discount": 65,
     "now": 10800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1304,7 +1313,7 @@
     "price": 12900,
     "discount": 74,
     "now": 19990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1327,7 +1336,7 @@
     "discount": 47,
     "price": 10400,
     "now": 11890,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1350,7 +1359,7 @@
     "discount": 41,
     "price": 12990,
     "now": 9900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "cheaper"
   },
   {
@@ -1362,7 +1371,7 @@
     "discount": 66,
     "price": 9990,
     "now": 16700,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1374,7 +1383,7 @@
     "discount": 64,
     "price": 5290,
     "now": 9801,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1386,7 +1395,7 @@
     "discount": 64,
     "price": 4990,
     "now": 8900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1398,7 +1407,7 @@
     "discount": 65,
     "price": 7600,
     "now": 14900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1410,7 +1419,7 @@
     "discount": 77,
     "price": 5460,
     "now": 9900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1421,9 +1430,9 @@
     "pid": 2578376693,
     "discount": 82,
     "price": 11900,
-    "now": 10900,
-    "checked": "2026-11-12",
-    "status": "cheaper"
+    "now": 19900,
+    "checked": "2026-11-13",
+    "status": "ended"
   },
   {
     "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트 (50% 할인 · 14,890원)",
@@ -1434,7 +1443,7 @@
     "discount": 50,
     "price": 14890,
     "now": 24900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1446,7 +1455,7 @@
     "discount": 75,
     "price": 8330,
     "now": 29900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "soldout"
   },
   {
@@ -1458,7 +1467,7 @@
     "discount": 96,
     "price": 4900,
     "now": 19900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "soldout"
   },
   {
@@ -1470,7 +1479,7 @@
     "discount": 61,
     "price": 5800,
     "now": 8150,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1481,8 +1490,8 @@
     "pid": 2517647825,
     "discount": 63,
     "price": 7900,
-    "now": 11600,
-    "checked": "2026-11-12",
+    "now": 10000,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1506,7 +1515,7 @@
     "discount": 81,
     "price": 10900,
     "now": 32900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "soldout"
   },
   {
@@ -1518,7 +1527,7 @@
     "discount": 88,
     "price": 9030,
     "now": 69900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "soldout"
   },
   {
@@ -1530,7 +1539,7 @@
     "discount": 75,
     "price": 5110,
     "now": 7990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1542,7 +1551,7 @@
     "discount": 82,
     "price": 6980,
     "now": 7890,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1554,7 +1563,7 @@
     "discount": 71,
     "price": 3990,
     "now": 11400,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1566,7 +1575,7 @@
     "discount": 61,
     "price": 7680,
     "now": 7880,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1578,7 +1587,7 @@
     "discount": 58,
     "price": 14530,
     "now": 22754,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1590,7 +1599,7 @@
     "discount": 43,
     "price": 13570,
     "now": 17790,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1602,7 +1611,7 @@
     "discount": 48,
     "price": 8180,
     "now": 12771,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1613,8 +1622,8 @@
     "pid": 418996905,
     "discount": 51,
     "price": 8730,
-    "now": 10900,
-    "checked": "2026-11-12",
+    "now": 10160,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1626,7 +1635,7 @@
     "discount": 62,
     "price": 6330,
     "now": 10900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1638,7 +1647,7 @@
     "discount": 68,
     "price": 6330,
     "now": 8500,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1650,7 +1659,7 @@
     "discount": 74,
     "price": 9690,
     "now": 13990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1662,7 +1671,7 @@
     "discount": 68,
     "price": 12380,
     "now": 13580,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1673,8 +1682,8 @@
     "pid": 2261736857,
     "discount": 57,
     "price": 11380,
-    "now": 16900,
-    "checked": "2026-11-12",
+    "now": 20700,
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1686,7 +1695,7 @@
     "discount": 56,
     "price": 12900,
     "now": 15800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1710,7 +1719,7 @@
     "discount": 83,
     "price": 5420,
     "now": 15800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1722,7 +1731,7 @@
     "discount": 57,
     "price": 4650,
     "now": 7900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1734,7 +1743,7 @@
     "discount": 81,
     "price": 5480,
     "now": 9900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1746,7 +1755,7 @@
     "discount": 66,
     "price": 7310,
     "now": 12900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1770,7 +1779,7 @@
     "discount": 83,
     "price": 15920,
     "now": 19800,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1782,7 +1791,7 @@
     "discount": 70,
     "price": 29500,
     "now": 29900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1794,7 +1803,7 @@
     "discount": 79,
     "price": 4200,
     "now": 6550,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1806,7 +1815,7 @@
     "discount": 59,
     "price": 7200,
     "now": 9900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1818,7 +1827,7 @@
     "discount": 57,
     "price": 18130,
     "now": 21900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1830,7 +1839,7 @@
     "discount": 82,
     "price": 5990,
     "now": 11990,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1842,7 +1851,7 @@
     "discount": 55,
     "price": 8990,
     "now": 13490,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1854,7 +1863,7 @@
     "discount": 88,
     "price": 4590,
     "now": 8900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1866,7 +1875,7 @@
     "discount": 68,
     "price": 9000,
     "now": 19900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1878,7 +1887,7 @@
     "discount": 71,
     "price": 5700,
     "now": 8100,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1890,7 +1899,7 @@
     "discount": 58,
     "price": 8600,
     "now": 16900,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1902,7 +1911,7 @@
     "discount": 91,
     "price": 24680,
     "now": 22690,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "cheaper"
   },
   {
@@ -1914,7 +1923,7 @@
     "discount": 74,
     "price": 6170,
     "now": 10700,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1926,7 +1935,7 @@
     "discount": 63,
     "price": 8700,
     "now": 16500,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   },
   {
@@ -1938,7 +1947,7 @@
     "discount": 65,
     "price": 20900,
     "now": 39600,
-    "checked": "2026-11-12",
+    "checked": "2026-11-13",
     "status": "ended"
   }
 ]
